@@ -1,13 +1,75 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* .container{
+ 
+    display:flex;
+    justify-content: center;
+  align-items: center;
+  flex-direction: column;
+margin: 200px 10px;
+}
+*/
+*{
+  margin: 0px 0px;
+}
+.container{
+ background-image: url("https://cdn.vectorstock.com/i/1000x1000/27/84/to-do-list-background-vector-14042784.webp") ;
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: 0px 0px;
+ padding: 0px 0px;
+ height: 100vh;
+} 
+#t1{
+  height: 20px;
+  width: 300px;
+  padding: 10px 10px;
+  font-size: 20px;
+  margin:20px 50px;
+}
+#t2{
+  height: 20px;
+  width: 300px;
+  padding: 10px 10px;
+  font-size: 20px;
+
+}
+#t3{
+  height: 20px;
+  width: 250px;
+  padding: 10px 10px;
+  font-size: 20px;
+  margin:20px 50px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#t4{
+  height: 40px;
+  width: 250px;
+  padding: 10px 10px;
+  font-size: 20px;
+  margin:10px 500px;
+}  
+#t5{
+
+  height: 20px;
+  width: 250px;
+  padding: 10px 10px;
+  font-size: 20px;
+  margin:20px 50px;
+}  
+#t6{
+
+  height: 20px;
+  width: 250px;
+  padding: 10px 10px;
+  font-size: 20px;
+  margin:20px 50px;
+
+}  
+#t7{
+
+  height: 20px;
+  width: 250px;
+  padding: 10px 10px;
+  font-size: 20px;
+  margin:20px 50px;
+
 }
